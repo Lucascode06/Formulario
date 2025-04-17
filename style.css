@@ -1,8 +1,8 @@
 .navbar {  
     display: flex;
     text-align: center;
-    background-color: rgb(21, 70, 135);
-    padding: 10px;
+
+
     color: white; 
 }  
 
@@ -11,23 +11,18 @@
     height: auto; 
     width: 100px; 
     margin-right: 1500px; 
-    align-items: end;
+    align-items: center;
 }  
 
 
 body {
-    margin: 200px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
     text-align: center;
-    background: url(champ.jfif) no-repeat bottom center scroll;
-    background-position: 10% 10%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: url(UEFA\ CHAMPIONS\ LEAGUE.png) no-repeat bottom center scroll;
+    background-position:center;
+    background-size:cover;
+    position: relative;
 }
 
 .container {
