@@ -1,13 +1,23 @@
-.topnav {
-    background-color:rgb(21, 70, 135);
-    border: none;
-    color: white;
-  }
+.navbar {  
+    display: flex;
+    text-align: center;
+    background-color: rgb(21, 70, 135);
+    padding: 10px;
+    color: white; 
+}  
+
+.navbar img {  
+    max-width: 100%; 
+    height: auto; 
+    width: 100px; 
+    margin-right: 1500px; 
+    align-items: end;
+}  
 
 
 body {
     margin: 200px;
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
