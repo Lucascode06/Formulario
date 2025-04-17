@@ -20,9 +20,10 @@ body {
     background-color: #f4f4f4;
     text-align: center;
     background: url(UEFA\ CHAMPIONS\ LEAGUE.png) no-repeat bottom center scroll;
-    background-position:center;
-    background-size:cover;
-    position: relative;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    height: 100vh;
 }
 
 .container {
