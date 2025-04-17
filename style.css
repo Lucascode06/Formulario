@@ -1,10 +1,6 @@
-.barra {
-    background-color: rgb(124, 124, 206);
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 35px;
+.topnav {
+    background-color:rgb(21, 70, 135);
+    border: none;
     color: white;
   }
 
